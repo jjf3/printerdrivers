@@ -3,7 +3,7 @@
 """
 Created on Tue Jun  6 14:20:29 2023
 
-@author: kali
+@author: jjf3
 """
 
 import tkinter as tk
