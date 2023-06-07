@@ -1,2 +1,2 @@
 # printerdrivers
-because printers sucks
+because printers suck
